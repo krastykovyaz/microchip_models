@@ -1,3 +1,6 @@
 venv
 .idea
 .DS_Store
+.python-version
+.ipynb_checkpoints
+
