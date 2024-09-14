@@ -1,0 +1,13 @@
+ Corpus Name: OpenSubtitles
+     Package: OpenSubtitles in Moses format
+     Website: http://opus.nlpl.eu/OpenSubtitles-v1.php
+     Release: v1
+Release date: Sat Mar  3 23:02:56 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+A collection of documents from http://www.opensubtitles.org/.IMPORTANT: If you use the OpenSubtitle corpus, please, add a link to http://www.opensubtitles.org/ to your website and to your reports and publications produced with the data! I got the data under this condition!
+
