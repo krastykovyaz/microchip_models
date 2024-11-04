@@ -3,4 +3,11 @@ venv
 .DS_Store
 .python-version
 .ipynb_checkpoints
-
+*.onnx
+*.pth
+*.zip
+*.csv
+*.txt
+mobilenet_v2_flowers_tf_model/
+vgg16_flowers_tf_model/
+data/
